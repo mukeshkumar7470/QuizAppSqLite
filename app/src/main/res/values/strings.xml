@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizAppSqLite</string>
+
+    <string name="txt_question">Question: 00/00</string>
+    <string name="txt_score">Score: 00</string>
+    <string name="txt_corr_wrong">Correct &#38; Wrong</string>
+    <string name="txt_time">00 : 00</string>
+    <string name="txt_contain_que"> </string>
+    <string name="btn_next">Next</string>
+</resources>
